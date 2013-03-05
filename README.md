@@ -2,7 +2,7 @@
 <center><h1>NPCCreatures</h></center>
 <center><h3><b>[Download](http://dev.bukkit.org/server-mods/npccreatures/files/12-npccreatures-v1-4/)</b> | <b>[Issues](http://dev.bukkit.org/server-mods/npccreatures/tickets/)</b> | <b>[Javadocs](http://npccreatures.tk/hierarchy.html)</b></h></center>
 
-
+<h1>No longer being developed as of March 5th, 2013.</h>
 
 *NPCCreatures*... what is this?
 
